@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import ChatUI from "@/components/ai/chat-ui"
 
 export const metadata: Metadata = {
-  title: "AI Assistant • MentorLink",
+  title: "AI Assistant • MENAC",
   description: "Ask the AI assistant for help finding mentors, planning study paths, and navigating open source.",
 }
 

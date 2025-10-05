@@ -5,7 +5,7 @@ export function SiteFooter() {
     <footer className="border-t bg-background">
       <div className="mx-auto max-w-6xl px-6 py-8 grid gap-4 md:grid-cols-3">
         <div className="grid gap-2">
-          <p className="font-semibold">MentorLink</p>
+          <p className="font-semibold">MENAC</p>
           <p className="text-sm text-muted-foreground">
             Matching newcomers to mentors for meaningful open‑source contributions.
           </p>
@@ -35,7 +35,7 @@ export function SiteFooter() {
         </div>
       </div>
       <div className="mx-auto max-w-6xl px-6 pb-8 text-xs text-muted-foreground">
-        © {new Date().getFullYear()} MentorLink. All rights reserved.
+        © {new Date().getFullYear()} MENAC. All rights reserved.
       </div>
     </footer>
   )

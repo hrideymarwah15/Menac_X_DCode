@@ -9,7 +9,7 @@ import { SiteFooter } from "@/components/site-footer"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "MentorLink — Mentorship matching for open source",
+  title: "MENAC — Mentorship Engagement Network And Communication",
   description: "Find the right mentor based on skills, availability, and communication preferences.",
   generator: "Menac_X_DCode",
 }

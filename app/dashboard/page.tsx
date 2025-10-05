@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import Overview from "@/components/dashboard/overview"
 
 export const metadata: Metadata = {
-  title: "Dashboard • MentorLink",
+  title: "Dashboard • MENAC",
   description: "Your matches, messages, and progress at a glance.",
 }
 

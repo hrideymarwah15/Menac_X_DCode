@@ -8,7 +8,7 @@ export default function HomePage() {
       <section className="grid gap-6 text-center">
         <h1 className="text-4xl font-semibold text-balance">Find your open‑source guide today</h1>
         <p className="text-muted-foreground text-pretty max-w-2xl mx-auto">
-          MentorLink matches new contributors with experienced mentors based on skills, availability, and communication
+          MENAC matches mentees with experienced mentors based on skills, availability, and communication
           preferences.
         </p>
         <div className="flex items-center justify-center gap-3">
@@ -24,7 +24,7 @@ export default function HomePage() {
       {/* Feature Cards */}
       <section aria-labelledby="features-title" className="grid gap-6">
         <h2 id="features-title" className="text-2xl font-semibold text-balance text-center">
-          Why MentorLink?
+          Why MENAC?
         </h2>
         <FeatureCards />
       </section>

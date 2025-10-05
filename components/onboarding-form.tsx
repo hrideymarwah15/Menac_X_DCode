@@ -38,7 +38,7 @@ export function OnboardingForm() {
     }
 
     try {
-      localStorage.setItem("mentorlink.profile", JSON.stringify(profile))
+      localStorage.setItem("menac.profile", JSON.stringify(profile))
     } catch {}
 
     router.push("/match")

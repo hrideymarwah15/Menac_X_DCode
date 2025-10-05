@@ -8,9 +8,9 @@ export function SiteHeader() {
   return (
     <header className="border-b bg-background">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-3">
-        <Link href="/" className="flex items-center gap-2" aria-label="MentorLink home">
-          <Image src="/placeholder-logo.svg" alt="MentorLink logo" width={28} height={28} />
-          <span className="font-semibold">MentorLink</span>
+        <Link href="/" className="flex items-center gap-2" aria-label="MENAC home">
+          <Image src="/placeholder-logo.svg" alt="MENAC logo" width={28} height={28} />
+          <span className="font-semibold">MENAC</span>
         </Link>
         <nav aria-label="Primary" className="hidden md:flex items-center gap-6">
           <Link className="text-sm hover:underline underline-offset-4" href="/onboarding">

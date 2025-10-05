@@ -23,7 +23,7 @@ function useStoredProfile(): MenteeProfile | null {
   // We intentionally avoid useEffect for fetching; SWR handles network.
   const profile = useMemo(() => {
     try {
-      const raw = localStorage.getItem("mentorlink.profile")
+      const raw = localStorage.getItem("menac.profile")
       if (!raw) return null
       const parsed = JSON.parse(raw) as MenteeProfile
       return parsed?.role === "Mentee" ? parsed : null

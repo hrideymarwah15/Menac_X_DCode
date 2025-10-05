@@ -2,7 +2,7 @@ import { NextResponse } from "next/server"
 import { generateText } from "ai"
 
 // Simple instruction for a focused, helpful assistant tailored to mentor matching context.
-const SYSTEM_INSTRUCTIONS = `You are MentorLink AI, a concise, helpful assistant for open-source mentorship.
+const SYSTEM_INSTRUCTIONS = `You are MENAC AI, a concise, helpful assistant for mentorship.
 - Ask clarifying questions only when needed.
 - Provide actionable steps, suggested mentor attributes, and follow-up resources.
 - Keep responses structured with short paragraphs or bullet points.
