@@ -115,3 +115,8 @@ pnpm dev
 ## Live Demo
 
 Visit MENAC at: [menac.vercel.app](https://menac.vercel.app)
+
+
+
+Presentation Link: [Presentation(https://www.canva.com/design/DAG04mDFh40/6GR0uKqV37m6VI0aKML7vw/edit?utm_content=DAG04mDFh40&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+Documentation: [Document(https://docs.google.com/document/d/1OzczKL9OkmQPSBKfZjG0tX7XO6F1FPre6k4cNzQpql4/edit?usp=sharing)]
