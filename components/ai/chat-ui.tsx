@@ -1,6 +1,6 @@
 "use client"
 
-import        "Hi! I'm your MENAC AI assistant. Tell me your goals, interests, and time commitment. I'll help you find mentors and plan next steps.",* as React from "react"
+import        "Hi! I'm your MENAC AI assistant. Tell me your goals, interests, and time commitment. I'll help you find mentors and plan next steps.",       "Hi! I'm your MENAC AI assistant. Tell me your goals, interests, and time commitment. I'll help you find mentors and plan next steps.",* as React from "react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
